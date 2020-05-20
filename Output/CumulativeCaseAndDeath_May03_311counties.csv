@@ -1,0 +1,312 @@
+county,FIPS,cumulativecase,cumulativedeath
+Queens County NY,36081,53585,5395
+Kings County NY,36047,46775,5630
+Cook County IL,17031,42501,1777
+Bronx County NY,36005,38850,3604
+Nassau County NY,36059,36748,1770
+Suffolk County NY,36103,34834,1258
+Westchester County NY,36119,29839,1086
+Los Angeles County CA,6037,25691,1223
+New York County NY,36061,22720,2205
+Wayne County MI,26163,17317,1869
+Bergen County NJ,34003,16207,1208
+Hudson County NJ,34017,15807,844
+Middlesex County MA,25017,15330,976
+Essex County NJ,34013,14527,1279
+Suffolk County MA,25025,13730,588
+Passaic County NJ,34031,13369,626
+Union County NJ,34039,13229,735
+Philadelphia County PA,42101,13121,425
+Miami-Dade County FL,12086,12742,367
+Middlesex County NJ,34023,12636,637
+Richmond County NY,36085,12176,747
+Rockland County NY,36087,12007,410
+Fairfield County CT,9001,11738,884
+Essex County MA,25009,9491,496
+Orange County NY,36071,8933,252
+New Haven County CT,9009,7983,574
+Oakland County MI,26125,7515,748
+Prince George's County MD,24033,7328,262
+Providence County RI,44007,7016,132
+Ocean County NJ,34029,6868,443
+Harris County TX,48201,6695,129
+Orleans Parish LA,22071,6533,441
+King County WA,53033,6455,458
+Jefferson Parish LA,22051,6378,371
+Monmouth County NJ,34025,6299,380
+Norfolk County MA,25021,6270,551
+Worcester County MA,25027,6227,314
+Marion County IN,18097,6164,355
+Hartford County CT,9003,6052,752
+Macomb County MI,26099,5772,625
+Morris County NJ,34027,5537,449
+Plymouth County MA,25023,5490,323
+Broward County FL,12011,5293,206
+Montgomery County MD,24031,5172,272
+District of Columbia DC,11001,5043,257
+Maricopa County AZ,4013,4550,170
+Montgomery County PA,42091,4547,383
+Mercer County NJ,34021,4517,252
+Fairfax County VA,51059,4388,189
+Clark County NV,32003,4208,215
+Riverside County CA,6065,4157,159
+Lake County IL,17097,4153,146
+Delaware County PA,42045,4101,250
+Hampden County MA,25013,4054,400
+Bristol County MA,25005,4012,200
+Camden County NJ,34007,3999,162
+San Diego County CA,6073,3910,138
+Dallas County TX,48113,3897,111
+Somerset County NJ,34035,3713,295
+Erie County NY,36029,3708,235
+DuPage County IL,17043,3612,189
+Denver County CO,8031,3343,166
+St. Louis County MO,29189,3321,174
+Baltimore County MD,24005,3284,168
+Bucks County PA,42017,3278,237
+Milwaukee County WI,55079,3242,195
+Palm Beach County FL,12099,3134,196
+Dutchess County NY,36027,3083,75
+Burlington County NJ,34005,3061,149
+Fulton County GA,13121,2984,122
+Franklin County OH,39049,2938,80
+Lehigh County PA,42077,2918,82
+Davidson County TN,47037,2907,28
+Berks County PA,42011,2891,118
+Shelby County TN,47157,2838,54
+Will County IL,17197,2832,161
+Orange County CA,6059,2745,51
+Salt Lake County UT,49035,2712,31
+Arapahoe County CO,8005,2710,157
+Snohomish County WA,53061,2502,109
+Tarrant County TX,48439,2494,71
+Sussex County DE,10005,2473,69
+Marion County OH,39101,2335,4
+Baltimore city MD,24510,2321,121
+Cuyahoga County OH,39035,2320,123
+Luzerne County PA,42079,2237,95
+Santa Clara County CA,6085,2229,113
+Northampton County PA,42095,2198,94
+DeKalb County GA,13089,2167,51
+San Bernardino County CA,6071,2159,96
+Hennepin County MN,27053,2158,278
+Minnehaha County SD,46099,2137,16
+East Baton Rouge Parish LA,22033,2075,154
+Prince William County VA,51153,2029,30
+Lake County IN,18089,2029,94
+Gwinnett County GA,13135,1959,58
+Anne Arundel County MD,24003,1959,88
+Kane County IL,17089,1937,58
+Lancaster County PA,42071,1919,110
+New Castle County DE,10003,1904,78
+Weld County CO,8123,1873,104
+Kent County MI,26081,1784,40
+Adams County CO,8001,1776,68
+Cobb County GA,13067,1750,97
+Alameda County CA,6001,1741,63
+Pickaway County OH,39129,1731,22
+Mecklenburg County NC,37119,1716,49
+Travis County TX,48453,1716,50
+Genesee County MI,26049,1632,195
+Hall County GA,13139,1629,23
+San Francisco County CA,6075,1615,29
+Caddo Parish LA,22017,1606,115
+Bexar County TX,48029,1587,48
+Monroe County NY,36055,1558,86
+Dougherty County GA,13095,1535,125
+Chester County PA,42029,1501,115
+Polk County IA,19153,1460,40
+Orange County FL,12095,1435,36
+Jefferson County KY,21111,1420,96
+Jefferson County CO,8059,1408,83
+Pierce County WA,53053,1386,51
+Gloucester County NJ,34015,1386,51
+Lucas County OH,39095,1380,119
+Hamilton County OH,39061,1370,80
+Brown County WI,55009,1354,6
+Allegheny County PA,42003,1350,101
+Ulster County NY,36111,1336,28
+Pima County AZ,4019,1324,86
+Cass County IN,18017,1314,2
+St. Tammany Parish LA,22103,1309,113
+Black Hawk County IA,19013,1304,16
+Yakima County WA,53077,1281,47
+Hall County NE,31079,1272,29
+Hillsborough County FL,12057,1269,28
+Albany County NY,36001,1253,36
+Trousdale County TN,47169,1239,1
+St. Louis city MO,29510,1235,57
+San Mateo County CA,6081,1221,51
+Mobile County AL,1097,1182,62
+Monroe County PA,42089,1168,55
+Fort Bend County TX,48157,1142,27
+McKinley County NM,35031,1136,21
+Lee County FL,12071,1124,46
+Sacramento County CA,6067,1115,42
+Washtenaw County MI,26161,1114,70
+Arlington County VA,51013,1113,46
+Hillsborough County NH,33011,1111,42
+Utah County UT,49049,1081,8
+Woodbury County IA,19193,1075,2
+Atlantic County NJ,34001,1071,48
+Duval County FL,12031,1043,24
+Litchfield County CT,9005,1029,92
+Putnam County NY,36079,1012,45
+Kern County CA,6029,1007,8
+Frederick County MD,24021,1002,60
+Lackawanna County PA,42069,999,87
+El Paso County CO,8041,988,80
+El Paso County TX,48141,982,22
+Sussex County NJ,34037,971,114
+Jefferson County AL,1073,971,48
+Howard County MD,24027,970,20
+Washoe County NV,32031,961,32
+Richland County SC,45079,959,40
+Warren County NJ,34041,955,94
+Onondaga County NY,36067,954,35
+Henrico County VA,51087,954,106
+Jackson County MO,29095,946,29
+Mahoning County OH,39099,945,83
+Nobles County MN,27105,944,1
+Sullivan County NY,36105,941,16
+Contra Costa County CA,6013,940,28
+Barnstable County MA,25001,937,47
+Loudoun County VA,51107,931,16
+Bernalillo County NM,35001,915,40
+Alexandria city VA,51510,902,25
+Cumberland County NJ,34011,884,16
+Dakota County NE,31043,871,2
+Douglas County NE,31055,869,18
+Wake County NC,37183,865,19
+Rockingham County NH,33015,857,28
+Oklahoma County OK,40109,841,32
+Wyandotte County KS,20209,835,55
+Lincoln County AR,5079,824,4
+Kent County DE,10001,824,30
+Hamilton County IN,18057,823,69
+Ford County KS,20057,807,2
+Denton County TX,48121,796,22
+Clayton County GA,13063,786,33
+Collin County TX,48085,776,21
+Navajo County AZ,4017,772,22
+St. John the Baptist Parish LA,22095,772,71
+Ouachita Parish LA,22073,769,22
+Pinellas County FL,12103,766,40
+Durham County NC,37063,761,21
+Hendricks County IN,18063,757,41
+Potter County TX,48375,756,9
+Greenville County SC,45045,753,40
+McHenry County IL,17111,744,37
+Lebanon County PA,42075,738,10
+Tulare County CA,6107,737,40
+Multnomah County OR,41051,736,45
+Linn County IA,19113,729,46
+Saginaw County MI,26145,721,65
+San Juan County NM,35045,720,58
+Johnson County IN,18081,701,72
+Middlesex County CT,9007,700,92
+Ada County ID,16001,700,17
+Summit County OH,39153,695,56
+Kent County RI,44003,692,4
+York County PA,42133,682,11
+Wayne County NC,37191,673,11
+Hunterdon County NJ,34019,672,36
+Lafourche Parish LA,22057,668,51
+St. Joseph County IN,18141,661,20
+Sumner County TN,47165,658,38
+Boulder County CO,8013,657,44
+Ascension Parish LA,22005,644,40
+Charles County MD,24017,638,48
+Collier County FL,12021,638,21
+Dauphin County PA,42043,634,30
+Galveston County TX,48167,628,28
+Tulsa County OK,40143,627,34
+Fresno County CA,6019,627,8
+Montgomery County TX,48339,627,13
+Allen County IN,18003,621,54
+Manatee County FL,12081,618,58
+New London County CT,9011,616,43
+Escambia County FL,12033,610,13
+Marshall County IA,19127,607,2
+Cass County ND,38017,606,2
+Bledsoe County TN,47007,599,0
+St. Charles County MO,29183,599,29
+Chesterfield County VA,51041,593,25
+Winnebago County IL,17201,586,18
+St. Charles Parish LA,22089,582,40
+Tangipahoa Parish LA,22105,578,24
+Stearns County MN,27145,576,0
+Rutherford County TN,47149,575,11
+San Joaquin County CA,6077,572,25
+Ventura County CA,6111,563,19
+Eagle County CO,8037,554,7
+Hampshire County MA,25015,552,37
+Pulaski County AR,5119,550,19
+Cumberland County ME,23005,549,28
+Lubbock County TX,48303,548,44
+Dawson County NE,31047,548,4
+Marion County OR,41047,546,19
+St. Clair County IL,17163,542,32
+Seward County KS,20175,541,0
+Brazoria County TX,48039,534,6
+Coconino County AZ,4005,531,44
+Leavenworth County KS,20103,531,5
+Schenectady County NY,36093,527,22
+Kenosha County WI,55059,524,14
+Douglas County CO,8035,523,23
+Apache County AZ,4001,523,6
+Polk County FL,12105,521,25
+Washington County OR,41067,516,11
+Henry County GA,13151,516,13
+Santa Barbara County CA,6083,515,8
+Benton County WA,53005,515,46
+Volusia County FL,12127,511,25
+Dallas County IA,19049,510,0
+Osceola County FL,12097,505,8
+Hinds County MS,28049,505,8
+Ingham County MI,26065,504,13
+Johnson County IA,19103,498,6
+Johnson County KS,20091,497,42
+Blaine County ID,16013,497,5
+Carroll County MD,24013,492,49
+Lorain County OH,39093,490,35
+Ramsey County MN,27123,490,34
+Cherokee County GA,13057,490,13
+Oneida County NY,36065,486,17
+Harrisonburg city VA,51660,476,15
+Niagara County NY,36063,474,25
+St. Bernard Parish LA,22087,474,21
+Iberville Parish LA,22047,473,31
+Harford County MD,24025,472,15
+Wicomico County MD,24045,471,9
+Lafayette Parish LA,22055,466,20
+Terrebonne Parish LA,22109,458,35
+Pinal County AZ,4021,457,13
+Tolland County CT,9013,456,40
+Charleston County SC,45019,456,7
+Calcasieu Parish LA,22019,453,30
+Berkshire County MA,25003,451,36
+Kalamazoo County MI,26077,448,18
+Madison County IN,18095,440,51
+Racine County WI,55101,439,13
+Finney County KS,20055,437,3
+Rock Island County IL,17161,436,9
+Dane County WI,55025,436,22
+Beaver County PA,42007,434,68
+Cameron County TX,48061,433,18
+Guilford County NC,37081,432,31
+Cleveland County OK,40027,431,29
+Williamson County TN,47187,429,9
+Chittenden County VT,50007,422,36
+Richmond County GA,13245,417,16
+Lexington County SC,45063,415,17
+Sandoval County NM,35043,413,19
+Montgomery County AL,1101,411,7
+Stanislaus County CA,6099,408,14
+Virginia Beach city VA,51810,407,15
+Moore County TX,48341,407,6
+Pike County PA,42103,405,16
+Richmond city VA,51760,404,19
+Westmoreland County PA,42129,402,26
+Accomack County VA,51001,401,6
+Stark County OH,39151,400,53
