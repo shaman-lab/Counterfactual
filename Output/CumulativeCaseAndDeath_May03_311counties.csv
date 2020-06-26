@@ -1,13 +1,13 @@
 county,FIPS,cumulativecase,cumulativedeath
-Queens County NY,36081,53585,5395
-Kings County NY,36047,46775,5630
+Queens County NY,36081,53585,5286
+Kings County NY,36047,46775,5511
 Cook County IL,17031,42501,1777
-Bronx County NY,36005,38850,3604
+Bronx County NY,36005,38850,3685
 Nassau County NY,36059,36748,1770
 Suffolk County NY,36103,34834,1258
 Westchester County NY,36119,29839,1086
 Los Angeles County CA,6037,25691,1223
-New York County NY,36061,22720,2205
+New York County NY,36061,22720,2256
 Wayne County MI,26163,17317,1869
 Bergen County NJ,34003,16207,1208
 Hudson County NJ,34017,15807,844
@@ -15,17 +15,17 @@ Middlesex County MA,25017,15330,976
 Essex County NJ,34013,14527,1279
 Suffolk County MA,25025,13730,588
 Passaic County NJ,34031,13369,626
-Union County NJ,34039,13229,735
+Union County NJ,34039,13229,733
 Philadelphia County PA,42101,13121,425
 Miami-Dade County FL,12086,12742,367
 Middlesex County NJ,34023,12636,637
-Richmond County NY,36085,12176,747
+Richmond County NY,36085,12176,784
 Rockland County NY,36087,12007,410
 Fairfield County CT,9001,11738,884
 Essex County MA,25009,9491,496
 Orange County NY,36071,8933,252
 New Haven County CT,9009,7983,574
-Oakland County MI,26125,7515,748
+Oakland County MI,26125,7490,748
 Prince George's County MD,24033,7328,262
 Providence County RI,44007,7016,132
 Ocean County NJ,34029,6868,443
@@ -38,7 +38,7 @@ Norfolk County MA,25021,6270,551
 Worcester County MA,25027,6227,314
 Marion County IN,18097,6164,355
 Hartford County CT,9003,6052,752
-Macomb County MI,26099,5772,625
+Macomb County MI,26099,5745,625
 Morris County NJ,34027,5537,449
 Plymouth County MA,25023,5490,323
 Broward County FL,12011,5293,206
@@ -186,7 +186,7 @@ Kent County DE,10001,824,30
 Hamilton County IN,18057,823,69
 Ford County KS,20057,807,2
 Denton County TX,48121,796,22
-Clayton County GA,13063,786,33
+Clayton County GA,13063,786,32
 Collin County TX,48085,776,21
 Navajo County AZ,4017,772,22
 St. John the Baptist Parish LA,22095,772,71
@@ -228,7 +228,7 @@ Manatee County FL,12081,618,58
 New London County CT,9011,616,43
 Escambia County FL,12033,610,13
 Marshall County IA,19127,607,2
-Cass County ND,38017,606,2
+Cass County ND,38017,606,18
 Bledsoe County TN,47007,599,0
 St. Charles County MO,29183,599,29
 Chesterfield County VA,51041,593,25
@@ -239,12 +239,12 @@ Stearns County MN,27145,576,0
 Rutherford County TN,47149,575,11
 San Joaquin County CA,6077,572,25
 Ventura County CA,6111,563,19
-Eagle County CO,8037,554,7
+Eagle County CO,8037,549,7
 Hampshire County MA,25015,552,37
 Pulaski County AR,5119,550,19
 Cumberland County ME,23005,549,28
 Lubbock County TX,48303,548,44
-Dawson County NE,31047,548,4
+Dawson County NE,31047,548,2
 Marion County OR,41047,546,19
 St. Clair County IL,17163,542,32
 Seward County KS,20175,541,0
@@ -275,12 +275,12 @@ Cherokee County GA,13057,490,13
 Oneida County NY,36065,486,17
 Harrisonburg city VA,51660,476,15
 Niagara County NY,36063,474,25
-St. Bernard Parish LA,22087,474,21
+St. Bernard Parish LA,22087,474,19
 Iberville Parish LA,22047,473,31
 Harford County MD,24025,472,15
 Wicomico County MD,24045,471,9
 Lafayette Parish LA,22055,466,20
-Terrebonne Parish LA,22109,458,35
+Terrebonne Parish LA,22109,458,34
 Pinal County AZ,4021,457,13
 Tolland County CT,9013,456,40
 Charleston County SC,45019,456,7
@@ -298,14 +298,14 @@ Guilford County NC,37081,432,31
 Cleveland County OK,40027,431,29
 Williamson County TN,47187,429,9
 Chittenden County VT,50007,422,36
-Richmond County GA,13245,417,16
+Richmond County GA,13245,417,15
 Lexington County SC,45063,415,17
 Sandoval County NM,35043,413,19
 Montgomery County AL,1101,411,7
 Stanislaus County CA,6099,408,14
 Virginia Beach city VA,51810,407,15
 Moore County TX,48341,407,6
-Pike County PA,42103,405,16
+Pike County PA,42103,405,15
 Richmond city VA,51760,404,19
 Westmoreland County PA,42129,402,26
 Accomack County VA,51001,401,6
