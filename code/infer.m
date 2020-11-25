@@ -56,9 +56,10 @@ end
 %adjusting inter-county movement
 load MI_inter
 %adjusting mobility starting from March 16, day 25
-MI_inter_relative=MI_inter(:,2:end);
+MI_inter=MI_inter(:,2:end);%remove fips code
+MI_inter_relative=MI_inter;
 for t=25:size(MI_inter_relative,2)
-    MI_inter_relative(:,t)=MI_inter_relative(:,t)./MI_inter_relative(:,t-1);
+    MI_inter_relative(:,t)=MI_inter(:,t)./MI_inter(:,t-1);
     MI_inter_relative(isnan(MI_inter_relative(:,t)),t)=0;
     MI_inter_relative(isinf(MI_inter_relative(:,t)),t)=0;
     MI_inter_relative(:,t)=min(MI_inter_relative(:,t),1);
