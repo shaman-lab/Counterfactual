@@ -57,12 +57,13 @@ end
 load MI_inter
 %adjusting mobility starting from March 16, day 25
 MI_inter=MI_inter(:,2:end);%remove fips code
-MI_inter_relative=MI_inter;
-for t=25:size(MI_inter_relative,2)
-    MI_inter_relative(:,t)=MI_inter(:,t)./MI_inter(:,t-1);
-    MI_inter_relative(isnan(MI_inter_relative(:,t)),t)=0;
-    MI_inter_relative(isinf(MI_inter_relative(:,t)),t)=0;
-    MI_inter_relative(:,t)=min(MI_inter_relative(:,t),1);
+MI_inter(:,2:end)=min(MI_inter(:,2:end),1);
+MI_inter_relative=[ones(num_loc,9),MI_inter];
+for t=16:size(MI_inter,2)
+    MI_inter_relative(:,t+9)=MI_inter(:,t)./MI_inter(:,t-1);
+    MI_inter_relative(isnan(MI_inter_relative(:,t+9)),t+9)=0;
+    MI_inter_relative(isinf(MI_inter_relative(:,t+9)),t+9)=0;
+    MI_inter_relative(:,t+9)=min(MI_inter_relative(:,t+9),1.01);
 end
 MI_inter_relative(:,1:24)=1;
 
